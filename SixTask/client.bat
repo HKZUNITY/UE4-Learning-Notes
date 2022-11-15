@@ -1,0 +1,1 @@
+ "X:\UnrealEngine-release\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\Netshoot.uproject" 192.168.1.107 -game -log -nosteam
